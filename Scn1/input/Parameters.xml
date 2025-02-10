@@ -1,0 +1,12 @@
+<parameters>
+	<turnTime>1800</turnTime>
+	<maxDelayTime>10800</maxDelayTime>
+	<weightCancelMaintenance>1000</weightCancelMaintenance>
+	<weightCancelFlight>800</weightCancelFlight>
+	<weightViolateBalance>500</weightViolateBalance>
+	<weightViolatePositioning>10</weightViolatePositioning>
+	<weightFlightDelay>10</weightFlightDelay>
+	<weightFlightSwap>1</weightFlightSwap>
+	<maxRunTime>1800</maxRunTime>
+	<scenarioName>Scenario1</scenarioName>
+</parameters>
